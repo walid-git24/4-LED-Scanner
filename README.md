@@ -64,16 +64,6 @@ MSTI_Arena-ASL-04/
 ├── diagram.json
 ├── wokwi.toml
 ├── README.md
-├── docs/
-│   ├── architecture.md
-│   ├── pinout.md
-│   └── test-results.md
-└── evidence/
-    └── simulation/
-        ├── circuit-overview.png
-        ├── scanner-operation.png
-        ├── serial-speed-control.png
-        └── simulation-results.md
 ```
 
 ## Challenge Requirement Alignment
