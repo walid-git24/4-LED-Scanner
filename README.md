@@ -56,8 +56,6 @@ Verified in Wokwi:
 - Faster (`f`) and slower (`s`) commands.
 - Serial speed feedback.
 
-See [Test Results](docs/test-results.md) and `evidence/simulation/`.
-
 ## Repository Structure
 
 ```text
